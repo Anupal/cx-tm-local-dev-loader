@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle cx-tm-local-dev-loader",
+        "command": "cx-tm-local-dev-loader:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "cx-tm-local-dev-loader",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "cx-tm-local-dev-loader:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
