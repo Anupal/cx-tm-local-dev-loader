@@ -1,7 +1,7 @@
 {
   "name": "cx-tm-local-dev-loader",
   "main": "./lib/cx-tm-local-dev-loader",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "description": "Package to setup local CXTM development environment in Atom.",
   "keywords": [],
   "repository": "https://github.com/Anupal/cx-tm-local-dev-loader",
